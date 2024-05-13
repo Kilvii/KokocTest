@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://kilvii.github.io/KokocTest/",
+  base: "https://kilvii.github.io/KokocTest/main",
   plugins: [
     vue(),
   ],
